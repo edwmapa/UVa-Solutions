@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Test Files
+.in
+.out
